@@ -27,7 +27,7 @@ public class Benchmark
         Predicate = x => x == ToSearch;
     }
     
-    [Benchmark]
+    [Benchmark(Baseline = true)]
     public bool SplitPlusAny()
     {
         return Input.Split(' ').Any(x => x == ToSearch);
