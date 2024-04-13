@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceGeneratedJsonSerializ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInString", "src\SearchInString\SearchInString.csproj", "{0167C5F6-846F-4C12-AF89-2E7DBE3FF633}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringVsStronglyTypedKeyLookup", "src\StringVsStronglyTypedKeyLookup\StringVsStronglyTypedKeyLookup.csproj", "{E7E03558-8A3F-4154-8B6B-52B0217141B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimitiveVsStronglyTypedKeyLookup", "src\PrimitiveVsStronglyTypedKeyLookup\PrimitiveVsStronglyTypedKeyLookup.csproj", "{E7E03558-8A3F-4154-8B6B-52B0217141B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
