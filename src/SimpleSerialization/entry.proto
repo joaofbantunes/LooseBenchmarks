@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option csharp_namespace = "SimpleSerialization.Protobuf";
+
+message ContextEntry {
+  string key = 1;
+  string value = 2;
+}
+
+message ContextEntryList {
+  repeated ContextEntry entries = 1;
+}
