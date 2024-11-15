@@ -5,11 +5,10 @@
         <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <RootNamespace>StringVsStronglyTypedKeyLookup</RootNamespace>
+        <RootNamespace>PrimitiveVsStronglyTypedKeyLookupV2Frozen</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="BenchmarkDotNet" Version="0.14.0" />
+        <PackageReference Include="BenchmarkDotNet" Version="0.14.0" />
     </ItemGroup>
-
 </Project>
