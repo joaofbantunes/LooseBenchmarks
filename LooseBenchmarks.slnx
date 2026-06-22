@@ -1,0 +1,24 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/src/">
+    <Project Path="src/AllocateStringVsLookup/AllocateStringVsLookup.csproj" />
+    <Project Path="src/CheckItemInCollection/CheckItemInCollection.csproj" />
+    <Project Path="src/ConvertToBool/ConvertToBool.csproj" />
+    <Project Path="src/GenericsStructsAndInterfacesAsParameters/GenericsStructsAndInterfacesAsParameters.csproj" />
+    <Project Path="src/MaybeAndEitherAcrossLanguages.CSharp/MaybeAndEitherAcrossLanguages.CSharp.csproj" />
+    <Project Path="src/MaybeAndEitherAcrossLanguages.FSharp/MaybeAndEitherAcrossLanguages.FSharp.fsproj" />
+    <Project Path="src/MaybeAndEitherAcrossLanguages/MaybeAndEitherAcrossLanguages.csproj" />
+    <Project Path="src/PrimitiveVsStronglyTypedKeyLookup/PrimitiveVsStronglyTypedKeyLookup.csproj" />
+    <Project Path="src/PrimitiveVsStronglyTypedKeyLookupV2/PrimitiveVsStronglyTypedKeyLookupV2.csproj" />
+    <Project Path="src/PrimitiveVsStronglyTypedKeyLookupV2Frozen/PrimitiveVsStronglyTypedKeyLookupV2Frozen.csproj" />
+    <Project Path="src/SearchInString/SearchInString.csproj" />
+    <Project Path="src/SimpleSerialization/SimpleSerialization.csproj" />
+    <Project Path="src/SourceGeneratedJsonSerialization/SourceGeneratedJsonSerialization.csproj" />
+    <Project Path="src/ToListVsToArray/ToListVsToArray.csproj" />
+    <Project Path="src/StupidToStringCache/StupidToStringCache.csproj" />
+  </Folder>
+</Solution>
