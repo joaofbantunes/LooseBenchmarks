@@ -9,6 +9,8 @@
     <Project Path="src/CheckItemInCollection/CheckItemInCollection.csproj" />
     <Project Path="src/ConvertToBool/ConvertToBool.csproj" />
     <Project Path="src/GenericsStructsAndInterfacesAsParameters/GenericsStructsAndInterfacesAsParameters.csproj" />
+    <Project Path="src/GetJwtIdFast/GetJwtIdFast.csproj" />
+    <Project Path="src/GetJwtIdVsHash/GetJwtIdVsHash.csproj" />
     <Project Path="src/MaybeAndEitherAcrossLanguages.CSharp/MaybeAndEitherAcrossLanguages.CSharp.csproj" />
     <Project Path="src/MaybeAndEitherAcrossLanguages.FSharp/MaybeAndEitherAcrossLanguages.FSharp.fsproj" />
     <Project Path="src/MaybeAndEitherAcrossLanguages/MaybeAndEitherAcrossLanguages.csproj" />
